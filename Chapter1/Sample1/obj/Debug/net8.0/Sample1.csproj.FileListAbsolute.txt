@@ -1,0 +1,14 @@
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\obj\Debug\net8.0\Sample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\obj\Debug\net8.0\Sample1.AssemblyInfoInputs.cache
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\obj\Debug\net8.0\Sample1.AssemblyInfo.cs
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\obj\Debug\net8.0\Sample1.csproj.CoreCompileInputs.cache
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\bin\Debug\net8.0\Sample1.exe
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\bin\Debug\net8.0\Sample1.deps.json
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\bin\Debug\net8.0\Sample1.runtimeconfig.json
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\bin\Debug\net8.0\Sample1.dll
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\bin\Debug\net8.0\Sample1.pdb
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\obj\Debug\net8.0\Sample1.dll
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\obj\Debug\net8.0\refint\Sample1.dll
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\obj\Debug\net8.0\Sample1.pdb
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\obj\Debug\net8.0\Sample1.genruntimeconfig.cache
+D:\TaiLieu\FPT\Ky7\PRN222\Code\Chapter1\Sample1\obj\Debug\net8.0\ref\Sample1.dll
