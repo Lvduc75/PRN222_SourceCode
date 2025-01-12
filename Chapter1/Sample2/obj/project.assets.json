@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\Chapter1\\Sample2\\Sample2.csproj",
+      "projectUniqueName": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\PRN222_SourceCode\\Chapter1\\Sample2\\Sample2.csproj",
       "projectName": "Sample2",
-      "projectPath": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\Chapter1\\Sample2\\Sample2.csproj",
+      "projectPath": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\PRN222_SourceCode\\Chapter1\\Sample2\\Sample2.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\Chapter1\\Sample2\\obj\\",
+      "outputPath": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\PRN222_SourceCode\\Chapter1\\Sample2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
