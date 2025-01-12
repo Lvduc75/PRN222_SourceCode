@@ -14,7 +14,7 @@ namespace Sample1
             // Create a request for the URL
             WebRequest request = WebRequest.Create("http://www.contoso.com/default.html");
             // If required by the server, set the credentials.
-            request.Credentials = CredentialCache.DefaultCredentials;
+            request.Credentials = CredentialCache.DefaultCredentials; // Cung cap thong tin xac thu mac dinh neu dc request
             // Get the response.
             HttpWebResponse response = (HttpWebResponse)request.GetResponse();
             // Display the status.
@@ -41,8 +41,8 @@ namespace Sample1
             // Call asynchronous network methods in a try/catch block to handle exceptions.
             try
             {
-                HttpResponseMessage response = await client.GetAsync(uri);
-                response.EnsureSuccessStatusCode();
+                HttpResponseMessage response = await client.GetAsync(uri); // await dam bao ma khong tiep tuc thuc thi cho den khi tac vu hoan thanh
+                response.EnsureSuccessStatusCode(); // Kiem tra phan hoi HTTP co thanh cong hay khong ?. 
                 string responseBoy = await response.Content.ReadAsStringAsync();
                 Console.WriteLine(responseBoy);
             }

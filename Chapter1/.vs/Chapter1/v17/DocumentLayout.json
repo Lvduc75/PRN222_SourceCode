@@ -1,20 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\Chapter1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{775F739A-BE76-4594-9192-0F84BBD542D3}|Sample2\\Sample2.csproj|d:\\tailieu\\fpt\\ky7\\prn222\\code\\chapter1\\sample2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{775F739A-BE76-4594-9192-0F84BBD542D3}|Sample2\\Sample2.csproj|solutionrelative:sample2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{775F739A-BE76-4594-9192-0F84BBD542D3}|Sample2\\Sample2.csproj|d:\\tailieu\\fpt\\ky7\\prn222\\code\\chapter1\\sample2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{775F739A-BE76-4594-9192-0F84BBD542D3}|Sample2\\Sample2.csproj|solutionrelative:sample2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B98D3A6-E38A-422E-9C83-3A813B370786}|Sample1\\Sample1.csproj|d:\\tailieu\\fpt\\ky7\\prn222\\code\\chapter1\\sample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B98D3A6-E38A-422E-9C83-3A813B370786}|Sample1\\Sample1.csproj|solutionrelative:sample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\PRN222_SourceCode\\Chapter1\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 228,
-          "SelectedChildIndex": 110,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -463,44 +450,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\Chapter1\\Sample2\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Sample2\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\Chapter1\\Sample2\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Sample2\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T06:37:15.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\Chapter1\\Sample2\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Sample2\\MainWindow.xaml",
-              "ToolTip": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\Chapter1\\Sample2\\MainWindow.xaml",
-              "RelativeToolTip": "Sample2\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-10T06:37:15.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\Chapter1\\Sample1\\Program.cs",
-              "RelativeDocumentMoniker": "Sample1\\Program.cs",
-              "ToolTip": "D:\\TaiLieu\\FPT\\Ky7\\PRN222\\Code\\Chapter1\\Sample1\\Program.cs",
-              "RelativeToolTip": "Sample1\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAcwCsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T06:13:52.661Z",
-              "EditorCaption": ""
             }
           ]
         },

@@ -34,7 +34,7 @@ namespace Sample2
             // in a try/catch block to handle exceptions
             try
             {
-                string responeBody = await client.GetStringAsync(uri);
+                string responeBody = await client.GetStringAsync(uri); // Gui http get de url va nhan noi dung response
                 txtContent.Text = responeBody.Trim();
             }
             catch (HttpRequestException ex){
