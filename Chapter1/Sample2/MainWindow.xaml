@@ -27,7 +27,7 @@
                     HorizontalAlignment="Center" 
                     VerticalAlignment="Top" >
             <Button x:Name="btnViewHTML" Margin="25,5" Width="80"                     
-                    Content="View HTML" Click="btnViewHTML_Click" />
+                    Content="Fetch data" Click="btnViewHTML_Click" />
             <Button x:Name="btnClear" Margin="25,5" Width="80" 
                     Content="Clear" Click="btnClear_Click"/>
             <Button x:Name="btnClose" Margin="25,5" 
