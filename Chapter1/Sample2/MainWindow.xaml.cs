@@ -30,17 +30,32 @@ namespace Sample2
         private async void btnViewHTML_Click(object sender, RoutedEventArgs e)
         {
             string uri = txtURL.Text;
-            // Call asynchronous network methods
-            // in a try/catch block to handle exceptions
+
+            // Kiểm tra URL hợp lệ
+            if (string.IsNullOrWhiteSpace(uri) || !Uri.IsWellFormedUriString(uri, UriKind.Absolute))
+            {
+                MessageBox.Show("Please enter a valid URL.");
+                return;
+            }
+
             try
             {
-                string responeBody = await client.GetStringAsync(uri); // Gui http get de url va nhan noi dung response
-                txtContent.Text = responeBody.Trim();
+                string responseBody = await client.GetStringAsync(uri); // Gửi HTTP GET và nhận nội dung response
+                txtContent.Text = responseBody.Trim();
             }
-            catch (HttpRequestException ex){
-                MessageBox.Show($"Message :{ex.Message}");
+            catch (HttpRequestException ex)
+            {
+                MessageBox.Show($"Request Error: {ex.Message}");
+            }
+            catch (UriFormatException ex)
+            {
+                MessageBox.Show($"Invalid URL format: {ex.Message}");
+            }
+            catch (Exception ex)
+            {
+                // Xử lý các lỗi khác (nếu có)
+                MessageBox.Show($"Unexpected Error: {ex.Message}");
             }
         }
-
     }
 }
