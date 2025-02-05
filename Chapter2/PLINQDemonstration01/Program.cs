@@ -6,7 +6,7 @@ namespace PLINQDemonstration01
     {
         public static void Main(string[] args)
         {
-            var range = Enumerable.Range(1, 1000_000); // Tạo một dãy số nguyên liên tiếp, bắt đầu từ một giá trị xác định và có số lượng
+            var range = Enumerable.Range(1, 1_000_000); // Tạo một dãy số nguyên liên tiếp, bắt đầu từ một giá trị xác định và có số lượng
             // Here is Sequential version
             var resultList = range.Where(x => x % 3 == 0).ToList();
             Console.WriteLine($"Sequential: Total items are {resultList.Count}");
