@@ -12,16 +12,14 @@ internal class Utilities
 
     internal static List<Book> ReadData()
     {
-        var filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..", "Data", "BookStore1.json");
-        var cadJSON = File.ReadAllText(filePath);
+        var cadJSON = File.ReadAllText("Data/Bookstore1.json");
         return JsonConvert.DeserializeObject<List<Book>>(cadJSON);
     }
 
     internal static List<Book> ReadDataExtra()
     {
         List<Book> books = ReadData();
-        var filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..", "Data", "BookStore2.json");
-        var cadJSON = File.ReadAllText(filePath);
+        var cadJSON = File.ReadAllText("Data/Bookstore2.json");
         books.AddRange(JsonConvert.DeserializeObject<List<Book>>(cadJSON));
         return books;
     }

@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SingleResponsibilityPrincipleDemo.Model
+interface IBook
 {
-    interface IBook
-    {
-        string Title { get; set; }
-        string Author { get; set; }
-        double Price { get; set; }
-    }
+    string Title { get; set; }
+    string Author { get; set; }
+    double Price { get; set; }
 }
+
