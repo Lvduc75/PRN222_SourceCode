@@ -1,0 +1,17 @@
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\bin\Debug\net8.0\IoCPatternDemo.exe
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\bin\Debug\net8.0\Data\Movies.json
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\bin\Debug\net8.0\Data\Movies.xml
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\bin\Debug\net8.0\IoCPatternDemo.deps.json
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\bin\Debug\net8.0\IoCPatternDemo.runtimeconfig.json
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\bin\Debug\net8.0\IoCPatternDemo.dll
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\bin\Debug\net8.0\IoCPatternDemo.pdb
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\obj\Debug\net8.0\IoCPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\obj\Debug\net8.0\IoCPatternDemo.AssemblyInfoInputs.cache
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\obj\Debug\net8.0\IoCPatternDemo.AssemblyInfo.cs
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\obj\Debug\net8.0\IoCPatternDemo.csproj.CoreCompileInputs.cache
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\obj\Debug\net8.0\IoCPatternDemo.sourcelink.json
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\obj\Debug\net8.0\IoCPatternDemo.dll
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\obj\Debug\net8.0\refint\IoCPatternDemo.dll
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\obj\Debug\net8.0\IoCPatternDemo.pdb
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\obj\Debug\net8.0\IoCPatternDemo.genruntimeconfig.cache
+D:\TaiLieu\FPT\Ky7\PRN222\Code\PRN222_SourceCode\Chapter3\IoCPatternDemo\obj\Debug\net8.0\ref\IoCPatternDemo.dll
